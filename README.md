@@ -2,7 +2,7 @@ Future Scope of the Autonomous Swarm Drone System
 
 1. Enhanced Autonomy and AI Integration
 Machine Learning: Integrating machine learning algorithms can improve the decision-making process, allowing drones to adapt and optimize their search patterns based on real-time data.
-Computer Vision: Incorporating advanced computer vision techniques can enable more sophisticated object and target recognition, beyond simple color detection.
+Computer Vision: Incorporating advanced computer vision techniques allow more sophisticated object and target recognition, beyond simple color detection.
 2. Improved Communication and Coordination
 Advanced Swarm Intelligence: Implementing more sophisticated swarm intelligence algorithms, such as those inspired by natural systems (e.g., ant colonies, bird flocking), can enhance coordination and efficiency.
 5G Technology: Utilizing 5G networks for communication can significantly improve data transfer rates and reduce latency, allowing for more responsive and reliable drone operations.
