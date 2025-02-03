@@ -10,7 +10,6 @@ Advanced Swarm Intelligence: Implementing more sophisticated swarm intelligence 
 Multispectral and Hyperspectral Sensors: Adding multispectral or hyperspectral imaging sensors can enable drones to detect and analyze a wider range of materials and conditions, useful in agricultural technology, environmental monitoring, and disaster response.
 Enhanced Lidar and Radar: Upgrading to more advanced Lidar or radar systems can improve object detection accuracy and range, making the drones more capable in diverse environments.
 4. Increased Range and Endurance
-Extended Battery Life: Research and development in battery technology can lead to longer flight times, allowing drones to cover larger areas without needing frequent recharging.
 Solar-Powered Drones: Implementing solar panels can provide an alternative power source, extending operational duration and reducing the need for battery replacements.
 5. Versatile Applications
 Agriculture: Swarm drones can be used for precision agriculture, including crop monitoring, pest detection, and targeted pesticide application.
