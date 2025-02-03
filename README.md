@@ -7,7 +7,7 @@ Computer Vision: Incorporating advanced computer vision techniques allow more so
 Advanced Swarm Intelligence: Implementing more sophisticated swarm intelligence algorithms, such as those inspired by natural systems (e.g., ant colonies, bird flocking), can enhance coordination and efficiency.
 5G Technology: Utilizing 5G networks for communication can significantly improve data transfer rates and reduce latency, allowing for more responsive and reliable drone operations.
 3. Expanded Sensor Capabilities
-Multispectral and Hyperspectral Sensors: Adding multispectral or hyperspectral imaging sensors can enable drones to detect and analyze a wider range of materials and conditions, useful in agriculture, environmental monitoring, and disaster response.
+Multispectral and Hyperspectral Sensors: Adding multispectral or hyperspectral imaging sensors can enable drones to detect and analyze a wider range of materials and conditions, useful in agricultural technology, environmental monitoring, and disaster response.
 Enhanced Lidar and Radar: Upgrading to more advanced Lidar or radar systems can improve object detection accuracy and range, making the drones more capable in diverse environments.
 4. Increased Range and Endurance
 Extended Battery Life: Research and development in battery technology can lead to longer flight times, allowing drones to cover larger areas without needing frequent recharging.
